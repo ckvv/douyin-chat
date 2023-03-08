@@ -1,1 +1,19 @@
-{"setting":{"urlCheck":false,"es6":true,"postcss":true,"minified":true,"newFeature":true,"autoCompile":true},"appid":"testAppId","autoCompile":true,"projectname":"天气查询","condition":{"miniprogram":{"current":-1,"list":[]}}}
+{
+    "setting": {
+        "urlCheck": false,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "autoCompile": true
+    },
+    "appid": "testAppId",
+    "autoCompile": true,
+    "projectname": "douyin-chat",
+    "condition": {
+        "miniprogram": {
+            "current": -1,
+            "list": []
+        }
+    }
+}

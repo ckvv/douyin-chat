@@ -13,9 +13,8 @@
 }
 
 .content {
-    flex-grow: 1;
-    padding: 24rpx;
+    padding: 16rpx;
     background-color: #ffffff;
     border-radius: 24rpx;
-    max-width: 480rpx;
+    max-width: 460rpx;
 }
