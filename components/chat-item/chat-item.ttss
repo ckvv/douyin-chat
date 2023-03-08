@@ -1,0 +1,21 @@
+.chat-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 40rpx;
+}
+
+.avatar {
+    width: 100rpx;
+    height: 100rpx;
+    border-radius: 50%;
+    flex-shrink: 0;
+    margin: 0 12rpx;
+}
+
+.content {
+    flex-grow: 1;
+    padding: 24rpx;
+    background-color: #ffffff;
+    border-radius: 24rpx;
+    max-width: 480rpx;
+}
