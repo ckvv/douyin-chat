@@ -5,7 +5,10 @@
         "postcss": true,
         "minified": true,
         "newFeature": true,
-        "autoCompile": true
+        "autoCompile": true,
+        "IDEPreviewHotRestartCache": true,
+        "mockUpdate": false,
+        "mockLogin": false
     },
     "appid": "testAppId",
     "autoCompile": true,
