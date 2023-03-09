@@ -1,5 +1,6 @@
-const userInfoBehavior = require("../../behaviors/user-info")
-const { tianqi } = require("../../apis/tianqi")
+import userInfoBehavior from "../../behaviors/user-info";
+import { tianqi } from '../../apis/tianqi';
+
 Component({
   behaviors: [userInfoBehavior],
   data: {
